@@ -1,0 +1,392 @@
+2024-06-22 19:06:824 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (5b28c5edef34bc4d57beb19d6e653520)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 19:06:866 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (5b28c5edef34bc4d57beb19d6e653520)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 19:06:805 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (7bb34b6c9c1be22cadc5b69fe8be5ca4)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 19:06:842 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (7bb34b6c9c1be22cadc5b69fe8be5ca4)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 19:06:416 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (85bc522aacc636f3ff3653421c0d1add)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 19:06:845 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (6b6cddf6aa32627042318dde7a169973)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 19:06:93 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (54eef83dc2281f271e54132e604d8ce3)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:289 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (2b6e3b61ef582864592555cd7bbced58)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:326 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (2b6e3b61ef582864592555cd7bbced58)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 20:06:62 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (618f3459a03280845c0ccd216d8d50c0)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:97 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (618f3459a03280845c0ccd216d8d50c0)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 20:06:370 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (9af49ebb19a9e084622d3d22323b62a9)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:237 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (fbac10dbdbff165fd5b69e8ed443a614)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:592 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (6bdd7059c9a40ca62e821444809cb75b)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:642 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (3d0815fa20fc8d524ae43caae727ed7b)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:664 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (3d0815fa20fc8d524ae43caae727ed7b)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 20:06:994 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (70b637c727b38854b9b7a1f0402e5b10)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:16 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (70b637c727b38854b9b7a1f0402e5b10)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 20:06:884 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (1cedb7f01f0bd7a761f39cbe85514fa9)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:949 INFO  LoginPage :34 - Enter EmailId abcd123@gmail.com
+2024-06-22 20:06:998 INFO  LoginPage :39 - Enter Password xyz123
+2024-06-22 20:06:308 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (1cedb7f01f0bd7a761f39cbe85514fa9)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 20:06:330 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (1cedb7f01f0bd7a761f39cbe85514fa9)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 20:06:322 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (730af488b6b63783f39e4b4b2a593694)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:387 INFO  LoginPage :34 - Enter EmailId xyz123@gmail.com
+2024-06-22 20:06:444 INFO  LoginPage :39 - Enter Password xyzsdfd123
+2024-06-22 20:06:758 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (730af488b6b63783f39e4b4b2a593694)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 20:06:780 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (730af488b6b63783f39e4b4b2a593694)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 20:06:632 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (5c3859a89440ea2ab21844978c48d70e)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:699 INFO  LoginPage :34 - Enter EmailId qwqe123@gmail.com
+2024-06-22 20:06:753 INFO  LoginPage :39 - Enter Password qwewe123
+2024-06-22 20:06:73 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (5c3859a89440ea2ab21844978c48d70e)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 20:06:95 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (5c3859a89440ea2ab21844978c48d70e)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 20:06:746 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (8a7ff098e1445aa14d9702a4b05ecb51)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:769 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (8a7ff098e1445aa14d9702a4b05ecb51)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 20:06:81 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (8639be1f482681189fee6b8625f12f8b)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:144 INFO  LoginPage :34 - Enter EmailId abcd123@gmail.com
+2024-06-22 20:06:197 INFO  LoginPage :39 - Enter Password xyz123
+2024-06-22 20:06:347 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (d44ccf761691ea1bcebf2a828e8af89b)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:412 INFO  LoginPage :34 - Enter EmailId xyz123@gmail.com
+2024-06-22 20:06:467 INFO  LoginPage :39 - Enter Password xyzsdfd123
+2024-06-22 20:06:02 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (fd891a877cf8f53186bde05b9661bb90)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:67 INFO  LoginPage :34 - Enter EmailId qwqe123@gmail.com
+2024-06-22 20:06:120 INFO  LoginPage :39 - Enter Password qwewe123
+2024-06-22 20:06:497 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (7998ae1a15713410a355380ba00cdf30)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:521 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (7998ae1a15713410a355380ba00cdf30)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 20:06:352 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (d7c8e506373b8002f0f94535e84836c7)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:421 INFO  LoginPage :34 - Enter EmailId abcd123@gmail.com
+2024-06-22 20:06:471 INFO  LoginPage :39 - Enter Password xyz123
+2024-06-22 20:06:792 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (d7c8e506373b8002f0f94535e84836c7)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 20:06:827 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (d7c8e506373b8002f0f94535e84836c7)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 20:06:287 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (1ac62d41380064568e604534eacbe573)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:352 INFO  LoginPage :34 - Enter EmailId xyz123@gmail.com
+2024-06-22 20:06:407 INFO  LoginPage :39 - Enter Password xyzsdfd123
+2024-06-22 20:06:702 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (1ac62d41380064568e604534eacbe573)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 20:06:724 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (1ac62d41380064568e604534eacbe573)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 20:06:23 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (6a8a4790ad9f1dbc560889248cb64599)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 20:06:91 INFO  LoginPage :34 - Enter EmailId qwqe123@gmail.com
+2024-06-22 20:06:144 INFO  LoginPage :39 - Enter Password qwewe123
+2024-06-22 20:06:446 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (6a8a4790ad9f1dbc560889248cb64599)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 20:06:469 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (6a8a4790ad9f1dbc560889248cb64599)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:419 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (74ea0f11808095698037c189aebbb185)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:487 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:527 INFO  LoginPage :34 - Enter EmailId prime123
+2024-06-22 21:06:569 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (74ea0f11808095698037c189aebbb185)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:649 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (e60eb67ea5ca27d17b9253a082ccca3e)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:722 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:765 INFO  LoginPage :34 - Enter EmailId prime123
+2024-06-22 21:06:810 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (e60eb67ea5ca27d17b9253a082ccca3e)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:211 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (aef5af82104be11c8b686b61fb90a164)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:279 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:331 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 21:06:893 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (aef5af82104be11c8b686b61fb90a164)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:786 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (6e5532d8fa43d445ae6e6536a01965b8)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:854 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:910 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 21:06:736 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (6e5532d8fa43d445ae6e6536a01965b8)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:559 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (c2cea068f78c6410882539a0e8f6e1ac)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:588 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (c2cea068f78c6410882539a0e8f6e1ac)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 21:06:525 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (451531da39809464839201abf93bfaf3)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:599 INFO  LoginPage :34 - Enter EmailId abcd123@gmail.com
+2024-06-22 21:06:649 INFO  LoginPage :39 - Enter Password xyz123
+2024-06-22 21:06:973 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (451531da39809464839201abf93bfaf3)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:995 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (451531da39809464839201abf93bfaf3)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:932 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (a8a6b9d4aa0410e47c8be337817df9e2)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:06 INFO  LoginPage :34 - Enter EmailId xyz123@gmail.com
+2024-06-22 21:06:62 INFO  LoginPage :39 - Enter Password xyzsdfd123
+2024-06-22 21:06:341 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (a8a6b9d4aa0410e47c8be337817df9e2)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:367 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (a8a6b9d4aa0410e47c8be337817df9e2)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:648 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (b28e67f71e18051795bc6504b31f7784)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:720 INFO  LoginPage :34 - Enter EmailId qwqe123@gmail.com
+2024-06-22 21:06:770 INFO  LoginPage :39 - Enter Password qwewe123
+2024-06-22 21:06:81 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (b28e67f71e18051795bc6504b31f7784)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:107 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (b28e67f71e18051795bc6504b31f7784)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:872 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (6e5e3fc5b3e4f57cd55b4095d556fcbe)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:944 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:998 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 21:06:637 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (6e5e3fc5b3e4f57cd55b4095d556fcbe)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:907 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (f1d9e2292c7c1aa3cd7d875279a58a03)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:929 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (f1d9e2292c7c1aa3cd7d875279a58a03)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 21:06:840 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (57141f2ad0e992b7680de43f2be9575e)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:908 INFO  LoginPage :34 - Enter EmailId abcd123@gmail.com
+2024-06-22 21:06:958 INFO  LoginPage :39 - Enter Password xyz123
+2024-06-22 21:06:327 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (57141f2ad0e992b7680de43f2be9575e)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:349 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (57141f2ad0e992b7680de43f2be9575e)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:750 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (02b95f934c0024d5cb0d2acec32d0df1)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:821 INFO  LoginPage :34 - Enter EmailId xyz123@gmail.com
+2024-06-22 21:06:879 INFO  LoginPage :39 - Enter Password xyzsdfd123
+2024-06-22 21:06:221 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (02b95f934c0024d5cb0d2acec32d0df1)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:243 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (02b95f934c0024d5cb0d2acec32d0df1)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:889 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (05c45ca9896fb29f736d0ef47aab02a7)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:964 INFO  LoginPage :34 - Enter EmailId qwqe123@gmail.com
+2024-06-22 21:06:26 INFO  LoginPage :39 - Enter Password qwewe123
+2024-06-22 21:06:377 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (05c45ca9896fb29f736d0ef47aab02a7)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:405 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (05c45ca9896fb29f736d0ef47aab02a7)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:340 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (68bac42dbdb5331b1fa20f1499e2f112)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:389 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:433 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 21:06:45 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (68bac42dbdb5331b1fa20f1499e2f112)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:245 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (c1052bbd72da458921a4a032213d4098)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:325 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:384 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 21:06:81 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (c1052bbd72da458921a4a032213d4098)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:647 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (7d25d09a53a3001b3d72f551b86300d3)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:717 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:772 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 21:06:444 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (7d25d09a53a3001b3d72f551b86300d3)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:970 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (d76119c73e32c7674d5de76d5063e182)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:994 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (d76119c73e32c7674d5de76d5063e182)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 21:06:966 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (19e01196a0fdf0ea5940d5f97745b3a1)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:31 INFO  LoginPage :34 - Enter EmailId abcd123@gmail.com
+2024-06-22 21:06:82 INFO  LoginPage :39 - Enter Password xyz123
+2024-06-22 21:06:568 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (19e01196a0fdf0ea5940d5f97745b3a1)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:594 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (19e01196a0fdf0ea5940d5f97745b3a1)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:548 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (885d3b600ba6330a98872e1f3464b165)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:614 INFO  LoginPage :34 - Enter EmailId xyz123@gmail.com
+2024-06-22 21:06:672 INFO  LoginPage :39 - Enter Password xyzsdfd123
+2024-06-22 21:06:996 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (885d3b600ba6330a98872e1f3464b165)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:18 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (885d3b600ba6330a98872e1f3464b165)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:324 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (c904e023c905cca5bcbb1818a2834929)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:391 INFO  LoginPage :34 - Enter EmailId qwqe123@gmail.com
+2024-06-22 21:06:442 INFO  LoginPage :39 - Enter Password qwewe123
+2024-06-22 21:06:788 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (c904e023c905cca5bcbb1818a2834929)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:810 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (c904e023c905cca5bcbb1818a2834929)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:770 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (7176c13187e7cf8f3151c4b718540afa)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:834 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:887 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 21:06:645 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (7176c13187e7cf8f3151c4b718540afa)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:659 INFO  HomePage :52 - Getting text from [[ChromeDriver: chrome on windows (7176c13187e7cf8f3151c4b718540afa)] -> xpath: //a[normalize-space()='Log out']]
+2024-06-22 21:06:853 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (64233dd7778dd4b5c964b4deeca9e658)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:875 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (64233dd7778dd4b5c964b4deeca9e658)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 21:06:187 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (39b1a9564c76ca6915dc1dda8a5dcf4f)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:259 INFO  LoginPage :34 - Enter EmailId abcd123@gmail.com
+2024-06-22 21:06:309 INFO  LoginPage :39 - Enter Password xyz123
+2024-06-22 21:06:653 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (39b1a9564c76ca6915dc1dda8a5dcf4f)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:675 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (39b1a9564c76ca6915dc1dda8a5dcf4f)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:171 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (52bbf42f08610ab55842cddbc598ae4a)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:237 INFO  LoginPage :34 - Enter EmailId xyz123@gmail.com
+2024-06-22 21:06:294 INFO  LoginPage :39 - Enter Password xyzsdfd123
+2024-06-22 21:06:664 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (52bbf42f08610ab55842cddbc598ae4a)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:688 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (52bbf42f08610ab55842cddbc598ae4a)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:217 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (d210abdf123d1a882fb9e43a3779b017)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:285 INFO  LoginPage :34 - Enter EmailId qwqe123@gmail.com
+2024-06-22 21:06:342 INFO  LoginPage :39 - Enter Password qwewe123
+2024-06-22 21:06:678 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (d210abdf123d1a882fb9e43a3779b017)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:707 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (d210abdf123d1a882fb9e43a3779b017)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:675 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (ac3f3999e8a9703abdd51758b868071a)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:741 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:794 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 21:06:773 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (ac3f3999e8a9703abdd51758b868071a)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:787 INFO  HomePage :52 - Getting text from [[ChromeDriver: chrome on windows (ac3f3999e8a9703abdd51758b868071a)] -> xpath: //a[normalize-space()='Log out']]
+2024-06-22 21:06:454 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (c0e43475209e1682106ae617d2dfae09)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:481 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (c0e43475209e1682106ae617d2dfae09)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 21:06:80 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (33ea135e6421f15bc98a994a678e737e)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:147 INFO  LoginPage :34 - Enter EmailId abcd123@gmail.com
+2024-06-22 21:06:197 INFO  LoginPage :39 - Enter Password xyz123
+2024-06-22 21:06:517 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (33ea135e6421f15bc98a994a678e737e)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:539 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (33ea135e6421f15bc98a994a678e737e)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:75 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (fd86f8036bf17f581796a8f3171da0a4)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:138 INFO  LoginPage :34 - Enter EmailId xyz123@gmail.com
+2024-06-22 21:06:192 INFO  LoginPage :39 - Enter Password xyzsdfd123
+2024-06-22 21:06:563 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (fd86f8036bf17f581796a8f3171da0a4)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:586 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (fd86f8036bf17f581796a8f3171da0a4)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:503 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (8e09655d77e7b14219ce0ef3ae28e7d7)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:572 INFO  LoginPage :34 - Enter EmailId qwqe123@gmail.com
+2024-06-22 21:06:629 INFO  LoginPage :39 - Enter Password qwewe123
+2024-06-22 21:06:962 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (8e09655d77e7b14219ce0ef3ae28e7d7)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:987 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (8e09655d77e7b14219ce0ef3ae28e7d7)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:728 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (3a45f1378eaa8d31ed85842404d913b2)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:793 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:845 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 21:06:607 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (3a45f1378eaa8d31ed85842404d913b2)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:621 INFO  HomePage :52 - Getting text from [[ChromeDriver: chrome on windows (3a45f1378eaa8d31ed85842404d913b2)] -> xpath: //a[normalize-space()='Log out']]
+2024-06-22 21:06:306 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (a271828b25e79f08f9a382e857d4a3d8)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:381 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:434 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 21:06:195 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (a271828b25e79f08f9a382e857d4a3d8)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:206 INFO  HomePage :52 - Getting text from [[ChromeDriver: chrome on windows (a271828b25e79f08f9a382e857d4a3d8)] -> xpath: //a[normalize-space()='Log out']]
+2024-06-22 21:06:369 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (148ca02964ba5c04b7e5db6c17130384)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:394 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (148ca02964ba5c04b7e5db6c17130384)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 21:06:218 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (34c817c278b386c14352720e66f94027)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:281 INFO  LoginPage :34 - Enter EmailId abcd123@gmail.com
+2024-06-22 21:06:332 INFO  LoginPage :39 - Enter Password xyz123
+2024-06-22 21:06:631 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (34c817c278b386c14352720e66f94027)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:657 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (34c817c278b386c14352720e66f94027)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:336 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (02eb527882fc51ecc1fb3b26836a11d3)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:420 INFO  LoginPage :34 - Enter EmailId xyz123@gmail.com
+2024-06-22 21:06:478 INFO  LoginPage :39 - Enter Password xyzsdfd123
+2024-06-22 21:06:769 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (02eb527882fc51ecc1fb3b26836a11d3)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:799 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (02eb527882fc51ecc1fb3b26836a11d3)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:593 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (1dbb839e6348b2923033699ccaf2dde7)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:663 INFO  LoginPage :34 - Enter EmailId qwqe123@gmail.com
+2024-06-22 21:06:716 INFO  LoginPage :39 - Enter Password qwewe123
+2024-06-22 21:06:32 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (1dbb839e6348b2923033699ccaf2dde7)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:55 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (1dbb839e6348b2923033699ccaf2dde7)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 21:06:350 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (0f38455cad9103e422ff4098583226d6)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:417 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:474 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 21:06:72 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (0f38455cad9103e422ff4098583226d6)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:83 INFO  HomePage :52 - Getting text from [[ChromeDriver: chrome on windows (0f38455cad9103e422ff4098583226d6)] -> xpath: //a[normalize-space()='Log out']]
+2024-06-22 21:06:631 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (b7cad4ca80a4cc021d4317df236d53be)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:703 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:755 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 21:06:344 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (b7cad4ca80a4cc021d4317df236d53be)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:357 INFO  HomePage :52 - Getting text from [[ChromeDriver: chrome on windows (b7cad4ca80a4cc021d4317df236d53be)] -> xpath: //a[normalize-space()='Log out']]
+2024-06-22 21:06:88 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (151a0edbe93a32b430ac439a9c53e571)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:158 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:211 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 21:06:827 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (151a0edbe93a32b430ac439a9c53e571)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:919 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (b91a107ed62ef17dd7e9d489ba22e001)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 21:06:981 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 21:06:33 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 21:06:633 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (b91a107ed62ef17dd7e9d489ba22e001)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 21:06:645 INFO  HomePage :47 - Click on logout link [[ChromeDriver: chrome on windows (b91a107ed62ef17dd7e9d489ba22e001)] -> xpath: //a[normalize-space()='Log out']]
+2024-06-22 21:06:197 INFO  HomePage :42 - Getting text from [[ChromeDriver: chrome on windows (b91a107ed62ef17dd7e9d489ba22e001)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 22:06:560 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (a7500c402e1e75c1dee38b644e17521a)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 22:06:593 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (a7500c402e1e75c1dee38b644e17521a)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-22 22:06:842 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (e06966fc5cbba909f2db0401fa7f1299)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 22:06:954 INFO  LoginPage :34 - Enter EmailId abcd123@gmail.com
+2024-06-22 22:06:42 INFO  LoginPage :39 - Enter Password xyz123
+2024-06-22 22:06:506 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (e06966fc5cbba909f2db0401fa7f1299)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 22:06:538 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (e06966fc5cbba909f2db0401fa7f1299)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 22:06:773 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (5997f7fe75143d989e00b1565de4db62)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 22:06:869 INFO  LoginPage :34 - Enter EmailId xyz123@gmail.com
+2024-06-22 22:06:941 INFO  LoginPage :39 - Enter Password xyzsdfd123
+2024-06-22 22:06:333 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (5997f7fe75143d989e00b1565de4db62)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 22:06:365 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (5997f7fe75143d989e00b1565de4db62)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 22:06:389 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (c08f7bd3cfc73d47c385260f53801831)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 22:06:509 INFO  LoginPage :34 - Enter EmailId qwqe123@gmail.com
+2024-06-22 22:06:589 INFO  LoginPage :39 - Enter Password qwewe123
+2024-06-22 22:06:925 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (c08f7bd3cfc73d47c385260f53801831)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 22:06:957 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (c08f7bd3cfc73d47c385260f53801831)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-22 22:06:49 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (c1227d64b10036fdffcd8878ce873049)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 22:06:152 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 22:06:230 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 22:06:608 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (c1227d64b10036fdffcd8878ce873049)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 22:06:444 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (100ccb20b955d9ca79be3018f8593a76)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-22 22:06:554 INFO  LoginPage :34 - Enter EmailId prime123@gmail.com
+2024-06-22 22:06:632 INFO  LoginPage :39 - Enter Password prime123
+2024-06-22 22:06:15 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (100ccb20b955d9ca79be3018f8593a76)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-22 22:06:392 INFO  HomePage :33 - Click on register link [[ChromeDriver: chrome on windows (7cf6f8aa0237ce6f79ea3ea84167358e)] -> xpath: //a[normalize-space()='Register']]
+2024-06-22 22:06:419 INFO  RegisterPage :83 - Get registration heading [[ChromeDriver: chrome on windows (7cf6f8aa0237ce6f79ea3ea84167358e)] -> xpath: //h1[normalize-space()='Register']]
+2024-06-22 22:06:332 INFO  HomePage :33 - Click on register link [[ChromeDriver: chrome on windows (2b7bb35e393fcd4f157735793d70117c)] -> xpath: //a[normalize-space()='Register']]
+2024-06-22 22:06:359 INFO  RegisterPage :83 - Get registration heading [[ChromeDriver: chrome on windows (2b7bb35e393fcd4f157735793d70117c)] -> xpath: //h1[normalize-space()='Register']]
+2024-06-22 22:06:400 INFO  HomePage :33 - Click on register link [[ChromeDriver: chrome on windows (3a65522204c19502721f8e79e3ba08bd)] -> xpath: //a[normalize-space()='Register']]
+2024-06-22 22:06:422 INFO  RegisterPage :83 - Get registration heading [[ChromeDriver: chrome on windows (3a65522204c19502721f8e79e3ba08bd)] -> xpath: //h1[normalize-space()='Register']]
+2024-06-22 22:06:786 INFO  HomePage :33 - Click on register link [[ChromeDriver: chrome on windows (4fff9fc26083ebd7ad7502ffff5137ba)] -> xpath: //a[normalize-space()='Register']]
+2024-06-22 22:06:813 INFO  RegisterPage :83 - Get registration heading [[ChromeDriver: chrome on windows (4fff9fc26083ebd7ad7502ffff5137ba)] -> xpath: //h1[normalize-space()='Register']]
+2024-06-22 22:06:874 INFO  HomePage :33 - Click on register link [[ChromeDriver: chrome on windows (0ba0298fc2a68ff66e0e0402a6a38eec)] -> xpath: //a[normalize-space()='Register']]
+2024-06-22 22:06:895 INFO  RegisterPage :83 - Get registration heading [[ChromeDriver: chrome on windows (0ba0298fc2a68ff66e0e0402a6a38eec)] -> xpath: //h1[normalize-space()='Register']]
+2024-06-22 22:06:415 INFO  HomePage :33 - Click on register link [[ChromeDriver: chrome on windows (21337f631cec4502d6fcdaebda19b7ca)] -> xpath: //a[normalize-space()='Register']]
+2024-06-22 22:06:444 INFO  RegisterPage :83 - Get registration heading [[ChromeDriver: chrome on windows (21337f631cec4502d6fcdaebda19b7ca)] -> xpath: //h1[normalize-space()='Register']]
+2024-06-22 22:06:326 INFO  HomePage :33 - Click on register link [[ChromeDriver: chrome on windows (400f528c36ecd38507a64a41bd4b7a6e)] -> xpath: //a[normalize-space()='Register']]
+2024-06-22 22:06:414 INFO  RegisterPage :89 - Click on registration button [[ChromeDriver: chrome on windows (400f528c36ecd38507a64a41bd4b7a6e)] -> xpath: //button[@id='register-button']]
+2024-06-22 22:06:430 INFO  RegisterPage :93 - Get First Name Error [[ChromeDriver: chrome on windows (400f528c36ecd38507a64a41bd4b7a6e)] -> id: FirstName-error]
+2024-06-22 22:06:462 INFO  RegisterPage :98 - Get Last Name Error [[ChromeDriver: chrome on windows (400f528c36ecd38507a64a41bd4b7a6e)] -> id: LastName-error]
+2024-06-22 22:06:487 INFO  RegisterPage :103 - Get email error [[ChromeDriver: chrome on windows (400f528c36ecd38507a64a41bd4b7a6e)] -> id: Email-error]
+2024-06-22 22:06:511 INFO  RegisterPage :108 - Get confirm password error [[ChromeDriver: chrome on windows (400f528c36ecd38507a64a41bd4b7a6e)] -> id: ConfirmPassword-error]
+2024-06-22 22:06:270 INFO  HomePage :33 - Click on register link [[ChromeDriver: chrome on windows (f9c58e4e87daf29fb99ae648e2c8b2b3)] -> xpath: //a[normalize-space()='Register']]
+2024-06-22 22:06:292 INFO  RegisterPage :83 - Get registration heading [[ChromeDriver: chrome on windows (f9c58e4e87daf29fb99ae648e2c8b2b3)] -> xpath: //h1[normalize-space()='Register']]
+2024-06-22 22:06:720 INFO  HomePage :33 - Click on register link [[ChromeDriver: chrome on windows (9f73a67d8c643809bd82689f9e81c61d)] -> xpath: //a[normalize-space()='Register']]
+2024-06-22 22:06:809 INFO  RegisterPage :89 - Click on registration button [[ChromeDriver: chrome on windows (9f73a67d8c643809bd82689f9e81c61d)] -> xpath: //button[@id='register-button']]
+2024-06-22 22:06:826 INFO  RegisterPage :93 - Get First Name Error [[ChromeDriver: chrome on windows (9f73a67d8c643809bd82689f9e81c61d)] -> id: FirstName-error]
+2024-06-22 22:06:856 INFO  RegisterPage :98 - Get Last Name Error [[ChromeDriver: chrome on windows (9f73a67d8c643809bd82689f9e81c61d)] -> id: LastName-error]
+2024-06-22 22:06:880 INFO  RegisterPage :103 - Get email error [[ChromeDriver: chrome on windows (9f73a67d8c643809bd82689f9e81c61d)] -> id: Email-error]
+2024-06-22 22:06:902 INFO  RegisterPage :108 - Get confirm password error [[ChromeDriver: chrome on windows (9f73a67d8c643809bd82689f9e81c61d)] -> id: ConfirmPassword-error]
+2024-06-23 20:06:863 INFO  HomePage :33 - Click on register link [[ChromeDriver: chrome on windows (383eff51e79e9e888d4a737106788227)] -> xpath: //a[normalize-space()='Register']]
+2024-06-23 20:06:930 INFO  RegisterPage :125 - Enter first name <firstName>
+2024-06-23 20:06:983 INFO  RegisterPage :130 - Enter last name <lastName>
+2024-06-23 20:06:41 INFO  RegisterPage :135 - Select date from dropdown [[ChromeDriver: chrome on windows (383eff51e79e9e888d4a737106788227)] -> name: DateOfBirthDay]
+2024-06-23 20:06:91 INFO  RegisterPage :140 - Select month from dropdown <month>
+2024-06-23 20:06:137 INFO  RegisterPage :145 - Select year from dropdown <year>
+2024-06-23 20:06:179 INFO  RegisterPage :150 - Enter email <email>
+2024-06-23 20:06:239 INFO  RegisterPage :155 - Enter password <password>
+2024-06-23 20:06:279 INFO  RegisterPage :160 - Enter confirm password <cpwd>
+2024-06-23 20:06:309 INFO  RegisterPage :89 - Click on registration button [[ChromeDriver: chrome on windows (383eff51e79e9e888d4a737106788227)] -> xpath: //button[@id='register-button']]
+2024-06-23 20:06:317 INFO  RegisterPage :180 - Get reg success msg [[ChromeDriver: chrome on windows (383eff51e79e9e888d4a737106788227)] -> xpath: //button[@id='register-button']]
+2024-06-23 20:06:767 INFO  HomePage :33 - Click on register link [[ChromeDriver: chrome on windows (7b1aac025fd7679e75cb3ee306c52bf8)] -> xpath: //a[normalize-space()='Register']]
+2024-06-23 20:06:816 INFO  RegisterPage :115 - Click on male radio button [[ChromeDriver: chrome on windows (7b1aac025fd7679e75cb3ee306c52bf8)] -> id: gender-male]
+2024-06-23 20:06:873 INFO  RegisterPage :125 - Enter first name prime
+2024-06-23 20:06:921 INFO  RegisterPage :130 - Enter last name testing
+2024-06-23 20:06:984 INFO  RegisterPage :135 - Select date from dropdown [[ChromeDriver: chrome on windows (7b1aac025fd7679e75cb3ee306c52bf8)] -> name: DateOfBirthDay]
+2024-06-23 20:06:37 INFO  RegisterPage :140 - Select month from dropdown 4
+2024-06-23 20:06:86 INFO  RegisterPage :145 - Select year from dropdown 2001
+2024-06-23 20:06:159 INFO  RegisterPage :150 - Enter email primetesting1212@gmail.com
+2024-06-23 20:06:210 INFO  RegisterPage :155 - Enter password prime1234
+2024-06-23 20:06:256 INFO  RegisterPage :160 - Enter confirm password prime1234
+2024-06-23 20:06:832 INFO  RegisterPage :89 - Click on registration button [[ChromeDriver: chrome on windows (7b1aac025fd7679e75cb3ee306c52bf8)] -> xpath: //button[@id='register-button']]
+2024-06-23 20:06:864 INFO  RegisterPage :180 - Get reg success msg Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='register-button']'
+2024-06-23 20:06:18 INFO  ComputerPage :31 - Getting text from [[ChromeDriver: chrome on windows (1d5a6a4635c6600ed22637045704885c)] -> xpath: //h1[normalize-space()='Computers']]
+2024-06-23 20:06:754 INFO  ComputerPage :31 - Getting text from [[ChromeDriver: chrome on windows (3ac30de3f851d7627cc7cf95982f93a4)] -> xpath: //h1[normalize-space()='Computers']]
+2024-06-23 20:06:738 INFO  DesktopPage :34 - Getting text from Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Desktops']'
+2024-06-23 20:06:542 INFO  ComputerPage :37 - Click on deskTop link [[ChromeDriver: chrome on windows (bb3f12e419621c3551df9363b62b4f5a)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2024-06-23 20:06:554 INFO  DesktopPage :34 - Getting text from [[ChromeDriver: chrome on windows (bb3f12e419621c3551df9363b62b4f5a)] -> xpath: //h1[normalize-space()='Desktops']]
+2024-06-23 20:06:827 INFO  ComputerPage :37 - Click on deskTop link [[ChromeDriver: chrome on windows (97732c527ad9771ef0abfba5bb6d1eb2)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2024-06-23 20:06:364 INFO  DesktopPage :55 - Click on login link [[ChromeDriver: chrome on windows (97732c527ad9771ef0abfba5bb6d1eb2)] -> xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']]
+2024-06-23 20:06:376 INFO  BuildYourOwnComputerPage :57 - Select [[ChromeDriver: chrome on windows (97732c527ad9771ef0abfba5bb6d1eb2)] -> id: product_attribute_1]
+2024-06-23 20:06:438 INFO  BuildYourOwnComputerPage :62 - Select [[ChromeDriver: chrome on windows (97732c527ad9771ef0abfba5bb6d1eb2)] -> id: product_attribute_2]
+2024-06-23 20:06:633 INFO  BuildYourOwnComputerPage :120 - Click on add to cart button [[ChromeDriver: chrome on windows (97732c527ad9771ef0abfba5bb6d1eb2)] -> id: add-to-cart-button-1]
+2024-06-23 20:06:686 INFO  BuildYourOwnComputerPage :47 - Getting text from Proxy element for: DefaultElementLocator 'By.xpath: //p[@class='content']'
+2024-06-23 20:06:58 INFO  ComputerPage :37 - Click on deskTop link [[ChromeDriver: chrome on windows (c5ec2f5375503533ec9c73d422dc2afe)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2024-06-23 20:06:537 INFO  DesktopPage :55 - Click on login link [[ChromeDriver: chrome on windows (c5ec2f5375503533ec9c73d422dc2afe)] -> xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']]
+2024-06-23 20:06:552 INFO  BuildYourOwnComputerPage :57 - Select [[ChromeDriver: chrome on windows (c5ec2f5375503533ec9c73d422dc2afe)] -> id: product_attribute_1]
+2024-06-23 20:06:592 INFO  BuildYourOwnComputerPage :62 - Select [[ChromeDriver: chrome on windows (c5ec2f5375503533ec9c73d422dc2afe)] -> id: product_attribute_2]
+2024-06-23 20:06:810 INFO  BuildYourOwnComputerPage :120 - Click on add to cart button [[ChromeDriver: chrome on windows (c5ec2f5375503533ec9c73d422dc2afe)] -> id: add-to-cart-button-1]
+2024-06-23 20:06:129 INFO  BuildYourOwnComputerPage :47 - Getting text from [[ChromeDriver: chrome on windows (c5ec2f5375503533ec9c73d422dc2afe)] -> xpath: //p[@class='content']]
+2024-06-23 20:06:903 INFO  ComputerPage :37 - Click on deskTop link [[ChromeDriver: chrome on windows (93dcf40b893f9cdd67661da7ccb1e016)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2024-06-23 20:06:390 INFO  DesktopPage :55 - Click on login link [[ChromeDriver: chrome on windows (93dcf40b893f9cdd67661da7ccb1e016)] -> xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']]
+2024-06-23 20:06:406 INFO  BuildYourOwnComputerPage :57 - Select [[ChromeDriver: chrome on windows (93dcf40b893f9cdd67661da7ccb1e016)] -> id: product_attribute_1]
+2024-06-23 20:06:446 INFO  BuildYourOwnComputerPage :62 - Select [[ChromeDriver: chrome on windows (93dcf40b893f9cdd67661da7ccb1e016)] -> id: product_attribute_2]
+2024-06-23 20:06:655 INFO  BuildYourOwnComputerPage :120 - Click on add to cart button [[ChromeDriver: chrome on windows (93dcf40b893f9cdd67661da7ccb1e016)] -> id: add-to-cart-button-1]
+2024-06-23 20:06:35 INFO  BuildYourOwnComputerPage :47 - Getting text from [[ChromeDriver: chrome on windows (93dcf40b893f9cdd67661da7ccb1e016)] -> xpath: //p[@class='content']]
+2024-06-23 20:06:148 INFO  ComputerPage :37 - Click on deskTop link [[ChromeDriver: chrome on windows (8650c7318a185a0cb2684bd264b6e68a)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2024-06-23 20:06:628 INFO  DesktopPage :55 - Click on login link [[ChromeDriver: chrome on windows (8650c7318a185a0cb2684bd264b6e68a)] -> xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']]
+2024-06-23 20:06:645 INFO  BuildYourOwnComputerPage :57 - Select [[ChromeDriver: chrome on windows (8650c7318a185a0cb2684bd264b6e68a)] -> id: product_attribute_1]
+2024-06-23 20:06:705 INFO  BuildYourOwnComputerPage :62 - Select [[ChromeDriver: chrome on windows (8650c7318a185a0cb2684bd264b6e68a)] -> id: product_attribute_2]
+2024-06-23 20:06:907 INFO  BuildYourOwnComputerPage :120 - Click on add to cart button [[ChromeDriver: chrome on windows (8650c7318a185a0cb2684bd264b6e68a)] -> id: add-to-cart-button-1]
+2024-06-23 20:06:162 INFO  BuildYourOwnComputerPage :47 - Getting text from [[ChromeDriver: chrome on windows (8650c7318a185a0cb2684bd264b6e68a)] -> xpath: //p[@class='content']]
+2024-06-23 20:06:202 INFO  ComputerPage :37 - Click on deskTop link [[ChromeDriver: chrome on windows (b28fdabca04506bc9b00a902e03b0374)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2024-06-23 20:06:656 INFO  DesktopPage :55 - Click on login link [[ChromeDriver: chrome on windows (b28fdabca04506bc9b00a902e03b0374)] -> xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']]
+2024-06-23 20:06:671 INFO  BuildYourOwnComputerPage :57 - Select [[ChromeDriver: chrome on windows (b28fdabca04506bc9b00a902e03b0374)] -> id: product_attribute_1]
+2024-06-23 20:06:715 INFO  BuildYourOwnComputerPage :62 - Select [[ChromeDriver: chrome on windows (b28fdabca04506bc9b00a902e03b0374)] -> id: product_attribute_2]
+2024-06-23 20:06:936 INFO  BuildYourOwnComputerPage :120 - Click on add to cart button [[ChromeDriver: chrome on windows (b28fdabca04506bc9b00a902e03b0374)] -> id: add-to-cart-button-1]
+2024-06-23 20:06:255 INFO  BuildYourOwnComputerPage :47 - Getting text from [[ChromeDriver: chrome on windows (b28fdabca04506bc9b00a902e03b0374)] -> xpath: //p[@class='content']]
+2024-06-23 21:06:469 INFO  ComputerPage :37 - Click on deskTop link [[ChromeDriver: chrome on windows (73d2aed087e502179c9ade470e035f6b)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2024-06-23 21:06:922 INFO  DesktopPage :55 - Click on login link [[ChromeDriver: chrome on windows (73d2aed087e502179c9ade470e035f6b)] -> xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']]
+2024-06-23 21:06:936 INFO  BuildYourOwnComputerPage :57 - Select [[ChromeDriver: chrome on windows (73d2aed087e502179c9ade470e035f6b)] -> id: product_attribute_1]
+2024-06-23 21:06:976 INFO  BuildYourOwnComputerPage :62 - Select [[ChromeDriver: chrome on windows (73d2aed087e502179c9ade470e035f6b)] -> id: product_attribute_2]
+2024-06-23 21:06:189 INFO  BuildYourOwnComputerPage :120 - Click on add to cart button [[ChromeDriver: chrome on windows (73d2aed087e502179c9ade470e035f6b)] -> id: add-to-cart-button-1]
+2024-06-23 21:06:513 INFO  BuildYourOwnComputerPage :47 - Getting text from [[ChromeDriver: chrome on windows (73d2aed087e502179c9ade470e035f6b)] -> xpath: //p[@class='content']]
+2024-06-24 17:06:998 INFO  ComputerPage :31 - Getting text from [[ChromeDriver: chrome on windows (d99db63bdf515bdfd63ce915fcf6ff4b)] -> xpath: //h1[normalize-space()='Computers']]
+2024-06-24 17:06:851 INFO  ComputerPage :37 - Click on deskTop link [[ChromeDriver: chrome on windows (ce5d3671bc5aec71aa82b4391dee738f)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2024-06-24 17:06:864 INFO  DesktopPage :34 - Getting text from [[ChromeDriver: chrome on windows (ce5d3671bc5aec71aa82b4391dee738f)] -> xpath: //h1[normalize-space()='Desktops']]
+2024-06-24 17:06:963 INFO  ComputerPage :37 - Click on deskTop link [[ChromeDriver: chrome on windows (1ec568c78dc8ceb78f8990ce34603aaa)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2024-06-24 17:06:432 INFO  DesktopPage :55 - Click on login link [[ChromeDriver: chrome on windows (1ec568c78dc8ceb78f8990ce34603aaa)] -> xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']]
+2024-06-24 17:06:450 INFO  BuildYourOwnComputerPage :57 - Select [[ChromeDriver: chrome on windows (1ec568c78dc8ceb78f8990ce34603aaa)] -> id: product_attribute_1]
+2024-06-24 17:06:515 INFO  BuildYourOwnComputerPage :62 - Select [[ChromeDriver: chrome on windows (1ec568c78dc8ceb78f8990ce34603aaa)] -> id: product_attribute_2]
+2024-06-24 17:06:731 INFO  BuildYourOwnComputerPage :120 - Click on add to cart button [[ChromeDriver: chrome on windows (1ec568c78dc8ceb78f8990ce34603aaa)] -> id: add-to-cart-button-1]
+2024-06-24 17:06:42 INFO  BuildYourOwnComputerPage :47 - Getting text from [[ChromeDriver: chrome on windows (1ec568c78dc8ceb78f8990ce34603aaa)] -> xpath: //p[@class='content']]
+2024-06-24 17:06:648 INFO  ComputerPage :37 - Click on deskTop link [[ChromeDriver: chrome on windows (2c5d991b6b38bf92d802cad7101bb512)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2024-06-24 17:06:93 INFO  DesktopPage :55 - Click on login link [[ChromeDriver: chrome on windows (2c5d991b6b38bf92d802cad7101bb512)] -> xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']]
+2024-06-24 17:06:108 INFO  BuildYourOwnComputerPage :57 - Select [[ChromeDriver: chrome on windows (2c5d991b6b38bf92d802cad7101bb512)] -> id: product_attribute_1]
+2024-06-24 17:06:149 INFO  BuildYourOwnComputerPage :62 - Select [[ChromeDriver: chrome on windows (2c5d991b6b38bf92d802cad7101bb512)] -> id: product_attribute_2]
+2024-06-24 17:06:364 INFO  BuildYourOwnComputerPage :120 - Click on add to cart button [[ChromeDriver: chrome on windows (2c5d991b6b38bf92d802cad7101bb512)] -> id: add-to-cart-button-1]
+2024-06-24 17:06:681 INFO  BuildYourOwnComputerPage :47 - Getting text from [[ChromeDriver: chrome on windows (2c5d991b6b38bf92d802cad7101bb512)] -> xpath: //p[@class='content']]
+2024-06-24 17:06:683 INFO  ComputerPage :37 - Click on deskTop link [[ChromeDriver: chrome on windows (ae393ec90bb2ea982783cd71bcb05005)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2024-06-24 17:06:135 INFO  DesktopPage :55 - Click on login link [[ChromeDriver: chrome on windows (ae393ec90bb2ea982783cd71bcb05005)] -> xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']]
+2024-06-24 17:06:150 INFO  BuildYourOwnComputerPage :57 - Select [[ChromeDriver: chrome on windows (ae393ec90bb2ea982783cd71bcb05005)] -> id: product_attribute_1]
+2024-06-24 17:06:190 INFO  BuildYourOwnComputerPage :62 - Select [[ChromeDriver: chrome on windows (ae393ec90bb2ea982783cd71bcb05005)] -> id: product_attribute_2]
+2024-06-24 17:06:406 INFO  BuildYourOwnComputerPage :120 - Click on add to cart button [[ChromeDriver: chrome on windows (ae393ec90bb2ea982783cd71bcb05005)] -> id: add-to-cart-button-1]
+2024-06-24 17:06:668 INFO  BuildYourOwnComputerPage :47 - Getting text from [[ChromeDriver: chrome on windows (ae393ec90bb2ea982783cd71bcb05005)] -> xpath: //p[@class='content']]
+2024-06-24 17:06:543 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (40e4f403b97b8f53c260480d059660a7)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-24 17:06:565 INFO  LoginPage :61 - Get welcome message [[ChromeDriver: chrome on windows (40e4f403b97b8f53c260480d059660a7)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2024-06-24 17:06:888 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (3833e02e543c3292f9ecccea3c2f4893)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-24 17:06:952 INFO  LoginPage :34 - Enter EmailId abcd123@gmail.com
+2024-06-24 17:06:01 INFO  LoginPage :39 - Enter Password xyz123
+2024-06-24 17:06:282 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (3833e02e543c3292f9ecccea3c2f4893)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-24 17:06:302 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (3833e02e543c3292f9ecccea3c2f4893)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-24 17:06:947 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (d9a6225f7913330b5f319ca12e08cbe8)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-24 17:06:11 INFO  LoginPage :34 - Enter EmailId xyz123@gmail.com
+2024-06-24 17:06:65 INFO  LoginPage :39 - Enter Password xyzsdfd123
+2024-06-24 17:06:375 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (d9a6225f7913330b5f319ca12e08cbe8)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-24 17:06:398 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (d9a6225f7913330b5f319ca12e08cbe8)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-24 17:06:585 INFO  HomePage :38 - Click on login link [[ChromeDriver: chrome on windows (b3c4027bd6aaa279dcff1790b045c020)] -> xpath: //a[normalize-space()='Log in']]
+2024-06-24 17:06:653 INFO  LoginPage :34 - Enter EmailId qwqe123@gmail.com
+2024-06-24 17:06:708 INFO  LoginPage :39 - Enter Password qwewe123
+2024-06-24 17:06:16 INFO  LoginPage :50 - Click on login [[ChromeDriver: chrome on windows (b3c4027bd6aaa279dcff1790b045c020)] -> xpath: //button[contains(text(),'Log in')]]
+2024-06-24 17:06:46 INFO  LoginPage :55 - Get error message [[ChromeDriver: chrome on windows (b3c4027bd6aaa279dcff1790b045c020)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2024-06-24 17:06:871 INFO  ComputerPage :31 - Getting text from [[ChromeDriver: chrome on windows (91c6dfdc89f80a38fcbb0fa042178a5f)] -> xpath: //h1[normalize-space()='Computers']]
+2024-06-24 17:06:918 INFO  ComputerPage :37 - Click on deskTop link [[ChromeDriver: chrome on windows (da515d970387b2ac8af3b6de1619d8c7)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2024-06-24 17:06:930 INFO  DesktopPage :34 - Getting text from [[ChromeDriver: chrome on windows (da515d970387b2ac8af3b6de1619d8c7)] -> xpath: //h1[normalize-space()='Desktops']]
+2024-06-24 17:06:619 INFO  ComputerPage :37 - Click on deskTop link [[ChromeDriver: chrome on windows (81831595b3f5e5781270d74d3bb5c6f7)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
